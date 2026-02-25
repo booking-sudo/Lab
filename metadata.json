@@ -1,0 +1,5 @@
+{
+  "name": "Lab Booking System",
+  "description": "A comprehensive lab booking system for computer classes with student and admin portals, slot management, and real-time availability tracking.",
+  "requestFramePermissions": []
+}
